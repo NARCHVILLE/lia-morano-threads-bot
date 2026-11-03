@@ -1,0 +1,6 @@
+requests
+playwright
+beautifulsoup4
+python-dotenv
+# Optional: openai or anthropic for LLM responses
+# For Threads private API exploration: see threads-re or molkex/threads-private-api
